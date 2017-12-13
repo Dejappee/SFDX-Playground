@@ -1,0 +1,231 @@
+[
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app",
+        {
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513168516031,
+            "changeTime": 1513168516031,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main",
+        {
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513168516031,
+            "changeTime": 1513168516031,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1513169161613,
+            "changeTime": 1513169161613,
+            "contentHash": "4f090b12d069ab492a48d0da355988187018b1a5"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513168516031,
+            "changeTime": 1513168516031,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1",
+        {
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1513168794266,
+            "changeTime": 1513168794266,
+            "contentHash": "8226760dff66bbe4179fbaa1c452e630b793526f",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects\\SFDX_Visit_Report__c\\SFDX_Visit_Report__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects\\SFDX_Visit_Report__c\\SFDX_Visit_Report__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2211,
+            "modifiedTime": 1513169161600,
+            "changeTime": 1513169161600,
+            "contentHash": "8abe3ec074692aa27441e7ddf14ce2060732745e"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\layouts\\SFDX_Visit_Report__c-Visit Report Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\layouts\\SFDX_Visit_Report__c-Visit Report Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2654,
+            "modifiedTime": 1513169161607,
+            "changeTime": 1513169161607,
+            "contentHash": "559282d979186f6eb3c3f07b16e85488229a9db6"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\tabs\\SFDX_Visit_Report__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\tabs\\SFDX_Visit_Report__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 225,
+            "modifiedTime": 1513169161610,
+            "changeTime": 1513169161610,
+            "contentHash": "9b139f7ffd1bf10acd2b1e0bde0bb2e89d82b4d0"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4573,
+            "modifiedTime": 1513169161615,
+            "changeTime": 1513169161615,
+            "contentHash": "cb883cb85ff0f134ef83816875fb019ea3a9b74f"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4573,
+            "modifiedTime": 1513169161621,
+            "changeTime": 1513169161621,
+            "contentHash": "cb883cb85ff0f134ef83816875fb019ea3a9b74f"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4911,
+            "modifiedTime": 1513169161627,
+            "changeTime": 1513169161627,
+            "contentHash": "84fb3c58417618e1d657fdab3acf43034b2cdf36"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17728,
+            "modifiedTime": 1513169161641,
+            "changeTime": 1513169161641,
+            "contentHash": "1a567b761b5937c390e29c4eb6018eecbf792adb"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects\\SFDX_Visit_Report__c",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects\\SFDX_Visit_Report__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1513169161599,
+            "changeTime": 1513169161599,
+            "contentHash": "9a83e583a5bde5cbe452c57c5643611729f2640f"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1513169161597,
+            "changeTime": 1513169161597,
+            "contentHash": "4cbdb44ca4e1df4d4539c90f5868e313c564fd61"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1513169161607,
+            "changeTime": 1513169161607,
+            "contentHash": "4ed1c79ac84a06a6686ec8888542b3638f5732e2"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1513169161610,
+            "changeTime": 1513169161610,
+            "contentHash": "1a49cddd489c646eb0e48bff198d21047bcc5cc7"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1513169161641,
+            "changeTime": 1513169161641,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]

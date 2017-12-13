@@ -1,0 +1,15 @@
+{
+    "orgName": "Dev Company Org",
+    "edition": "Developer",
+    "features": "Communities;AuthorApex",
+    "orgPreferences" : {
+        "enabled": [
+        	"S1DesktopEnabled",
+        	"ChatterEnabled", 
+        	"Translation",
+        	"NetworksEnabled",
+        	"PathAssistantsEnabled",
+        	"IsQuoteEnabled"
+    	]
+    }
+}
