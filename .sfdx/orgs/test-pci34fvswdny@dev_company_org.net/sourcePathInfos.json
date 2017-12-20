@@ -148,53 +148,53 @@
     [
         "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 19520,
             "modifiedTime": 1513779495196,
             "changeTime": 1513779495196,
-            "contentHash": "e70eb8a81790dbaed6e27afc763f639182d69ab8"
+            "contentHash": "e70eb8a81790dbaed6e27afc763f639182d69ab8",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5689,
             "modifiedTime": 1513779495107,
             "changeTime": 1513779495107,
-            "contentHash": "65cc9fcc8ea4902fc7b5a874be90efb4ec64cf3b"
+            "contentHash": "65cc9fcc8ea4902fc7b5a874be90efb4ec64cf3b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 5689,
             "modifiedTime": 1513779495117,
             "changeTime": 1513779495117,
-            "contentHash": "65cc9fcc8ea4902fc7b5a874be90efb4ec64cf3b"
+            "contentHash": "65cc9fcc8ea4902fc7b5a874be90efb4ec64cf3b",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6027,
             "modifiedTime": 1513779495132,
             "changeTime": 1513779495132,
-            "contentHash": "9262430b7555d8309557b8fea27088caf9132fcf"
+            "contentHash": "9262430b7555d8309557b8fea27088caf9132fcf",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
@@ -353,10 +353,10 @@
             "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\layouts\\Support_case__c-Support case Layout.layout-meta.xml",
             "isDirectory": false,
             "isMetadataFile": true,
-            "size": 3074,
-            "modifiedTime": 1513779495094,
-            "changeTime": 1513779495094,
-            "contentHash": "049f2884a2dc56c5073bbb3ac6db49f90e72d716"
+            "size": 3229,
+            "modifiedTime": 1513780245316,
+            "changeTime": 1513780245316,
+            "contentHash": "8f1a1e2a59a213c12c3a4651bddd0ac343485f10"
         }
     ],
     [
@@ -380,35 +380,48 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1513779495085,
-            "changeTime": 1513779495085,
-            "contentHash": "1f3e5c5b5a6a8ac15c8ae5d927c0d98354aa6155"
+            "modifiedTime": 1513780245309,
+            "changeTime": 1513780245309,
+            "contentHash": "8aa27ed7dcefc2e24100ec2ebee19a2f9ec71bc4"
         }
     ],
     [
         "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects\\Support_case__c\\fields\\Account__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects\\Support_case__c\\fields\\Account__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 578,
             "modifiedTime": 1513779495084,
             "changeTime": 1513779495084,
-            "contentHash": "9593e900a7ed4d69b1b71dd6dd8dc1fe62d10c48"
+            "contentHash": "9593e900a7ed4d69b1b71dd6dd8dc1fe62d10c48",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects\\Support_case__c\\fields\\Contact__c.field-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects\\Support_case__c\\fields\\Contact__c.field-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 577,
             "modifiedTime": 1513779495086,
             "changeTime": 1513779495086,
-            "contentHash": "e8841cde82e6dea4f0d0eeda8ddceb99fb312755"
+            "contentHash": "e8841cde82e6dea4f0d0eeda8ddceb99fb312755",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects\\Support_case__c\\fields\\SFDX_Case_Description__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\ApplicationServer\\GitRepos\\SFDX-Playground1\\force-app\\main\\default\\objects\\Support_case__c\\fields\\SFDX_Case_Description__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 334,
+            "modifiedTime": 1513780245309,
+            "changeTime": 1513780245309,
+            "contentHash": "3226ec95d429e6d3a84c2464648d611bd6425b18"
         }
     ]
 ]
