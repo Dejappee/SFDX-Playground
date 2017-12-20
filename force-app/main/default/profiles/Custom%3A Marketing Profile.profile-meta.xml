@@ -16,11 +16,19 @@
         <field>SFDX_Visit_Report__c.SFDX_Account__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>Support_case__c.SFDX_Assigned_To__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
     <layoutAssignments>
         <layout>SFDX_Comment__c-Comment Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
         <layout>SFDX_Visit_Report__c-Visit Report Layout</layout>
+    </layoutAssignments>
+    <layoutAssignments>
+        <layout>Support_case__c-Support case Layout</layout>
     </layoutAssignments>
     <userLicense>Salesforce</userLicense>
     <userPermissions>
