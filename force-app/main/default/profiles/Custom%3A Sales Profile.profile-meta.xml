@@ -3,6 +3,16 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>false</editable>
+        <field>SFDX_Comment__c.SFDX_Account_Address__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>SFDX_Comment__c.SFDX_Account__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>SFDX_Visit_Report__c.SFDX_Account__c</field>
         <readable>true</readable>
     </fieldPermissions>
