@@ -12,11 +12,6 @@
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
-        <editable>false</editable>
-        <field>SFDX_Visit_Report__c.SFDX_Account__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
         <editable>true</editable>
         <field>Support_case__c.Account__c</field>
         <readable>true</readable>
@@ -35,10 +30,10 @@
         <layout>SFDX_Comment__c-Comment Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>SFDX_Visit_Report__c-Visit Report Layout</layout>
+        <layout>Support_case__c-Support case Layout</layout>
     </layoutAssignments>
     <layoutAssignments>
-        <layout>Support_case__c-Support case Layout</layout>
+        <layout>zCRM_Visit_Report__c-Visit Report Layout</layout>
     </layoutAssignments>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -55,7 +50,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>SFDX_Visit_Report__c</object>
+        <object>Support_case__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
@@ -64,7 +59,7 @@
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>true</modifyAllRecords>
-        <object>Support_case__c</object>
+        <object>zCRM_Visit_Report__c</object>
         <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <userLicense>Salesforce</userLicense>
